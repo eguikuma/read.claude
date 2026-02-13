@@ -9,3 +9,4 @@ Claude.aiとClaude Codeの機能を整理していっています
 ## 機能
 
 - Claudeにあなたを覚えてもらうコツ
+- あなたに合う Claude を選ぶコツ
