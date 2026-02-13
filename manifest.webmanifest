@@ -1,0 +1,14 @@
+{
+  "name": "read.claude",
+  "short_name": "read.claude",
+  "description": "Claudeとの付き合い方をまとめたリファレンス集",
+  "start_url": "/read.claude/",
+  "scope": "/read.claude/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#D97757",
+  "icons": [
+    { "src": "/read.claude/192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/read.claude/512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

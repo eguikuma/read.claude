@@ -1,0 +1,8 @@
+title: read.claude
+description: Claudeとの付き合い方をまとめたリファレンス集
+baseurl: /read.claude
+url: https://eguikuma.github.io
+markdown: kramdown
+
+include:
+  - manifest.webmanifest
